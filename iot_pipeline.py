@@ -65,7 +65,7 @@ def load(ti):
     }
 
     # set dataset and table
-    dataset_ref  = bq_client.dataset('ardhi_datasets')
+    dataset_ref  = bq_client.dataset('sample')
     table_ref    = dataset_ref.table('iot_logs')
     upload_to_bq = lambda arg: bq_client.load_table_from_dataframe(arg["df"], table_ref, job_config=arg["job_config"]).result()
 
@@ -88,14 +88,12 @@ with DAG("iot_pipeline", start_date=datetime(2022, 1, 1), schedule_interval="0 8
 
     extract_data = PythonOperator(
         task_id         = "extract_data",
-        python_callable = extract,        
-        dag = dag
+        python_callable = extract               
     )
     
     load_to_bq = PythonOperator(
         task_id         = "load_to_bq",
-        python_callable = load,              
-        dag = dag
+        python_callable = load        
     )    
     
     finish = DummyOperator(
