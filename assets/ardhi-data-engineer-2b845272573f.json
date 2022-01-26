@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ardhi-data-engineer",
+  "private_key_id": "2b845272573f2b661ba7f8bb7695511ba0299c38",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCfYka/jd3F+9Jl\nUqoXuiXxJJTKDgHff098F2bRmwMLO2tZe9BELHwO1XrLruM/YOMYsCePLL6jFTqR\nEx194jmEMZgzRgJRzpaN1h5bgLsdmtWMDuJPwy/aKNbEgRV0n3e2NfEdJ0aMIxUQ\nFVEemyFIlKrX8fMS6Q3qAl1gZfphxw9pHnossuZVdRCl5wWiyj+MRYIqIKWVlV94\ntMMdwjdk3PpY0kqFpqVBUVHirzOvrAojT3r4NheqMsiKvNPZH7nhO8BsJ0UK7mag\n6+WtYkN/IPRApdWJ1erBUefB4816pQ41+aHa2RKi/ivPy2sXbsAFkGk0wuqSo0VM\n6m4prF7/AgMBAAECggEAED97iOGUfy9pxmyD7IFMhuW8yVBePoOC/dqA39NWnxmC\nmw+1Lo3+Y6C9sO/2OKrO2+BxV/YuxP9QBiQVuJSMWn6XznpPmDlgPbtbQua/rIfx\nRyLpTUpPoYTSSBwErOvoz0l2eAtd9MFKz2Xs7BrSbMzDEdqXdhEOGxH8pOwgd0Ej\ni9t5F20tT5oV+4jaVqgz36SiRumqRPEyoMGTtUy+frNnnV4AiBzYM2yQvqFhMOn6\nhSEf2Nn2ez1VL/p0BSrWqvPTUkAtY1lg35UyXmSwLPRijK39GcMZa3aGZaVgLh4X\nEdLJ9fdhNdx4A/wNy5Aa7yeg7NQIfTvoTCuYb6fD+QKBgQDQSLBBRd1MaMN63/y4\nOPAPICE8muOdSeRMPRAXmzPkf5Loj4YTGffNzTTOuobQgGMHt9H9Jk7IdKgLI21E\n9FN7BTSgBKTWUsAN7FzHSPL40k1ck0tHOJtRfbnfKUwBN7FBDj21DX6B/FD2B6hB\nTr+nwsBiQmKEUficHONxwhvsOwKBgQDD5bordMCmzspuSD1hPhKmI9rvUu2/DCSo\nVB7PCP7BbMjGFFaavEnwdvSxoO4c+b+9NtEtlXIVQ+E+ow/MN2qA7VQYn3jxjc+K\nSi/JTfp6UU12JZLkKIcmezHiWTltou14yHteO0/xvRrNnfw9r3mLx1To2ZYvaOxa\n8Kdv2I4gDQKBgCF8DhnwSWuHTCXs7IwRW0aTO8Sqgf0/a9x11Kh24xjRCaUprbxU\naGpFmz/A7PuIKGONQc0Y44GGf52KzH5RaTpV0+gF1xo9o3KZlTDUoXsvFBDV/Twt\n9YpcVA10biuj8HMs/u6khLoQ/lMPWBVnu5gUzyj80ynCo901J7uaITMRAoGAfY6/\njVzOoduGybqJhMs5Pr1adOxNL5dD45PPD1mvlx/3a2XbwF+QcIx991+zXmUA7PC2\nj6XqshCIzRHMbVLTc4Ep1oJYDVKcRAGasUbGlSGJKYGZrZ0ASrzJU09mzIuR80lk\nMRiI++L9y+5Hnu3aVKnVFU1owkhYvUzjtH8zUP0CgYAEVZlsmf/ACzb+fk5jrCni\n72CN7IHceOLAuknwjzA7o/pP9jaKeN+NL/K3WdtQ7draohPZKlhOjB8g4w/QZjru\nXNsbosFByaZ1FU5RaWotcZop0uEX7fXKyMo57hYwRzwzTetisYoVOxttMwInzfuG\nEHmdHA6QWSo9R1X1X5Ls+w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-659@ardhi-data-engineer.iam.gserviceaccount.com",
+  "client_id": "104252068138868370834",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-659%40ardhi-data-engineer.iam.gserviceaccount.com"
+}
